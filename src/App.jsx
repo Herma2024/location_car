@@ -16,8 +16,8 @@ function App() {
           <a href="#">Contact Us</a>
         </nav>
         <div className="hidden md:flex items-center gap-3 text-sm">
-          <div className="text-slate-600">Need help?</div>
-          <div className="bg-indigo-600 text-white px-3 py-2 rounded-full">+243 829443004</div>
+          <span className="text-slate-600">Need help?</span>
+          <span className="font-semibold">+243 829443004</span>
         </div>
       </header>
 
