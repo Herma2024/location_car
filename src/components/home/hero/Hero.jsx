@@ -7,12 +7,12 @@ const Hero = () => {
       <Header />
         <main className="max-w-5xl mx-auto px-6 pb-12">
         <section className="relative bg-gradient-to-r from-violet-700 to-indigo-600 text-white rounded-3xl p-6 md:p-8 flex flex-col md:flex-row items-center overflow-hidden md:min-h-[280px]">
-          {/* Background image: full cover, behind everything */}
+         
           <div className="absolute inset-0 z-0 pointer-events-none">
             <img src={bg} alt="bg" className="w-full h-full object-cover opacity-60" />
           </div>
 
-          {/* Decorative blur */}
+   
           <div className="absolute -left-20 -bottom-16 w-72 h-72 bg-violet-800 opacity-30 rounded-full filter blur-3xl z-5"></div>
 
          
@@ -20,7 +20,7 @@ const Hero = () => {
             <img src={car} alt="car-hero" className="w-full h-full object-contain" />
           </div>
 
-          {/* Content */}
+         
           <div className="md:w-2/3 z-20 relative">
             <h1 className="text-3xl md:text-4xl font-extrabold leading-tight">Experience the road like never before</h1>
             <p className="mt-3 text-slate-100 max-w-lg">Aliquam adipiscing velit semper morbi. Purus non eu cursus porttitor tristique et gravida. Quis nunc interdum gravida ullamcorper.</p>
