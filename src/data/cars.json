@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "description": "Toyota Camry description",
+    "image": "https://cdn.pixabay.com/photo/2019/08/22/02/35/toyota-4422348_960_720.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Honda Accord",
+    "description": "Honda Accord",
+    "image": "https://placehold.co/400"
+  },
+  {
+    "id": 3,
+    "name": "Ford Mustang",
+    "description": "Ford Mustang description",
+    "image": "https://placehold.co/400"
+  },
+  {
+    "id": 4,
+    "name": "Chevrolet Camaro",
+    "description": "Chevrolet Camaro description",
+    "image": "https://placehold.co/400"
+  },
+  {
+    "id": 5,
+    "name": "Mercedes-Benz C-Class",
+    "description": "Mercedes-Benz C-Class description",
+    "image": "https://placehold.co/400"
+  },
+  {
+    "id": 6,
+    "name": "Audi A4",
+    "description": "Audi A4 description",
+    "image": "https://cdn.pixabay.com/photo/2015/01/19/13/51/car-604019_960_720.jpg"
+  },
+  {
+    "id": 7,
+    "name": "BMW 3 Series",
+    "description": "BMW 3 Series description",
+    "image": "https://placehold.co/400"
+  },
+  {
+    "id": 8,
+    "name": "Nissan Altima",
+    "description": "Nissan Altima description",
+    "image": "https://placehold.co/400"
+  },
+  {
+    "id": 9,
+    "name": "Hyundai Sonata",
+    "description": "Hyundai Sonata description",
+    "image": "https://placehold.co/400"
+  },
+  {
+    "id": 10,
+    "name": "Volkswagen Passat",
+    "description": "Volkswagen Passat description",
+    "image": "https://placehold.co/400"
+  }
+]
